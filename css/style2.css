@@ -1582,7 +1582,7 @@ body {
 
     .footer {
         height: auto;
-        margin-top: 17.5vw;
+        margin-top: 18.5vw;
 
     }
 
@@ -1609,6 +1609,7 @@ body {
         font-weight: bold;
         margin-bottom: 4vw;
         margin-right: 13vw;
+        margin-left: 1vw;
         color: rgb(80, 80, 80);
     }
 
@@ -1739,7 +1740,7 @@ body {
     }
 
     .figthun-section {
-        margin-top: 6vw;
+        margin-top: 7.5vw;
     }
     
      .know-more-btn:hover {
